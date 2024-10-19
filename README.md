@@ -45,7 +45,7 @@
 
 ## 🌟 My Projects
 
-- 🚀 [adcomm](https://github.com/VivekYadav105/adcomm): A simulation of graphs and plots generated after modulation.
+- 🚀 [IMDb Rating](https://github.com/mohamedtalaat2020/Data-Projects/blob/main/1-IMDb%20Rating%20Project.pbix): A simulation of graphs and plots generated after modulation.
 - 🚀 [LinkBase](https://github.com/VivekYadav105/LinkBase): A react-native app to store the profile links and share them.
 - 🚀 [ChatWizards](https://github.com/ChatWizards/frontend-web): A MERN Chat-Application.
 - 🚀 [FrontEndMentor](https://github.com/VivekYadav105/frontend-mentor): A collection of frontend websites from frontend mentor
