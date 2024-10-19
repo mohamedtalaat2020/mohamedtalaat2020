@@ -23,7 +23,7 @@
 
 - 🌱 I'm a passionate Data Engineering and tech enthusiast, always eager to learn and experiment with new technologies.
 - 🔭 Currently, I'm exploring Cloud Data Engineering tools like AWS, Azure, and Oracle, diving deep into exciting projects and challenges.
-- 🎓 I am currently studying Studying Azure Data engineering and AI Associate  .
+- 🎓 I am currently studying Azure Data engineering and AI Associate  .
 - 💼 I am currently working at Dxc Technology as a data engineer and I'm using oracle cloud tools and open for work also as a freelancer.
 - 💬 Ask me about anything tech-related! I'm happy to help and share my knowledge.
 
