@@ -93,6 +93,7 @@
 [Email](https://img.shields.io/badge/-Email-green?style=flat-square&logo=gmail&logoColor=white) 
 [LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white) 
 [GitHub](https://img.shields.io/badge/-GitHub-purple?style=flat-square&logo=github&logoColor=white) 
+[HeyLink](https://heylink.me/MohamedTalaat_DE)
 
 </div>
 
